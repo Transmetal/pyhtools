@@ -10,3 +10,4 @@ prettytable>=2.1.0
 kamene>=0.32
 psutil>=5.8.0
 pytelegrambotapi>=4.0.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
